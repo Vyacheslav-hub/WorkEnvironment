@@ -1,1 +1,1 @@
-![CI](https://github.com/Vyacheslav-hub/Unit_testing/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/<Vyacheslav-hub>/<WorkEnvironment>/actions/workflows/web.yml/badge.svg)
